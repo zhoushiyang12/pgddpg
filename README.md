@@ -1,0 +1,2 @@
+# pgddpg
+This article is the additional experimental details of paper   'Independent Deep Deterministic Policy Gradient Reinforcement Learning in Cooperative Multiagent Pursuit Games'. In this article, we mainly tests and compares the hyperparameter of the algorithm, and the performance of the algorithms in the case of different preys. The results show that PGDDPG, we proposed, is insensitive to hyperparameter and has stronger robustness which Has a good performance against different levels of prey.
